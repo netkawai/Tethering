@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tethering", "Tethering\Tethering.csproj", "{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ping", "ping\ping.vcxproj", "{966F73F6-502D-4553-B3CF-CAE975CBEB3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|ARM.Build.0 = Debug|ARM
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|x64.ActiveCfg = Debug|x64
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|x64.Build.0 = Debug|x64
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|x64.Deploy.0 = Debug|x64
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|x86.ActiveCfg = Debug|x86
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|x86.Build.0 = Debug|x86
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Debug|x86.Deploy.0 = Debug|x86
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|ARM.ActiveCfg = Release|ARM
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|ARM.Build.0 = Release|ARM
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|ARM.Deploy.0 = Release|ARM
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|x64.ActiveCfg = Release|x64
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|x64.Build.0 = Release|x64
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|x64.Deploy.0 = Release|x64
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|x86.ActiveCfg = Release|x86
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|x86.Build.0 = Release|x86
+		{B7ADC1AD-52AE-45E5-B0E2-EECE4DF28D3F}.Release|x86.Deploy.0 = Release|x86
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Debug|ARM.Build.0 = Debug|ARM
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Debug|x64.ActiveCfg = Debug|x64
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Debug|x64.Build.0 = Debug|x64
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Debug|x86.Build.0 = Debug|Win32
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Release|ARM.ActiveCfg = Release|ARM
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Release|ARM.Build.0 = Release|ARM
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Release|x64.ActiveCfg = Release|x64
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Release|x64.Build.0 = Release|x64
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Release|x86.ActiveCfg = Release|Win32
+		{966F73F6-502D-4553-B3CF-CAE975CBEB3F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54642184-F307-4C21-BB0B-ED6A79876D4B}
+	EndGlobalSection
+EndGlobal
